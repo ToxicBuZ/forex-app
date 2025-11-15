@@ -1,6 +1,7 @@
 # Forex-App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+Updated to Angular 13.
 
 ## Use the project
 
